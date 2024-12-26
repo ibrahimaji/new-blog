@@ -1,11 +1,11 @@
 ---
-title: "Travel to Banyuwangi"
-description: "What a holiday in Banyuwangi"
+title: "Traveling to Banyuwangi"
+description: "Family trip to Banyuwangi"
 date: 2024-12-26T05:00:00Z
 image: "/images/posts/banyuwangi.jpg"
 categories: ["travel"]
 authors: ["Ibrahim Aji"]
-tags: ["banyuwangi"]
+tags: ["banyuwangi", "travel"]
 draft: false
 ---
 
@@ -26,20 +26,30 @@ I'm only going to mention the famous tourist destinations in Banyuwangi because 
 
 ## Ketapang Indah Hotel
 
+![Alt text](/images/posts/1-ketapang.jpg "Ketapang Indah")
+
 Ketapang Indah Hotel is a must if you go to Banyuwangi. I'm usually pretty frugal, so I felt Ketapang Indah was expensive, but it was worth it. You have access to a beach on the same area with the hotel. Eventhough it has black sand and is rocky, it is still worth it. The view is, what I can say about it.. It is very calming. The wind, the coconut trees, the blue sky-it has every element to relax the body and mind.
 
 ## Baluran
+
+![Alt text](/images/posts/1-baluran.jpg "Baluran")
 
 Baluran is actually in the Situbondo region, not Banyuwangi. The landscape with wild animals like bulls and monkeys, creates an Africa-like view. My family and I even prepared outfits so our photos would look like we were on a safari! Honestly it was just my daughter who wore a safari-like outfit. If you go further in, there's also a beach called Bama Beach. There are no waves there, making it perfect for children to play on the sand. Oh, and the sand is white! In Baluran, you should watch out for the monkeys! They try to grab everything you're holding.
 
 ## Djawatan
 
+![Alt text](/images/posts/1-djawatan.jpg "Djawatan")
+
 I always fascinated that Djawatan is located right by the side of the road. We didn't have to travel far off the main road to enter the Djawatan forest. Djawatan is an area with a grouping of Samanea Saman trees, creating a surreal view that makes you feel like you're in another place. The photoshoot services there are very cheap, ranging from 20.000 to 50.000 rupiahs for many photos.
 
 ## Red Island
+
+![Alt text](/images/posts/1-pulau.jpg "Red Island")
 
 Red Island is located in South Banyuwangi. It took us an hour to drive from Djawatan. The beach has a very strong waves and white sand. We ordered seafood, which was quite delicious and reasonably priced. After lunch, we rented a beach chair and ordered coconut drinks. My daughter and I played in the sand together.
 
 ## Summary
 
-Even though the itinerary didn't go exactly as planned because of heavy rain on day 1, I think it was nice because we got an extra rest day. Banyuwangi has many other destinations too, like Alas Purwo, Ijen Crater, Green Bay etc! Overall, it was our best holiday ever.
+![Alt text](/images/posts/1-banana.jpg "Banana")
+
+Even though the itinerary didn't go exactly as planned because of heavy rain on day 1, I think it was nice because we got an extra rest day. Oh I forgot to mention our homestay from day 2 to day 4, the one and only Banana Homestay! It was comfortable place to stay, with a friendly owner and homely cooking, making it an ideal choice for anyone looking for a reasonably priced homestay with great service. Banyuwangi has many other destinations too, like Alas Purwo, Ijen Crater, Green Bay etc! Overall, it was our best holiday ever.
