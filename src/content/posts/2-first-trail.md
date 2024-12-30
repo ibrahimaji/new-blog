@@ -9,23 +9,31 @@ tags: ["trail", "running"]
 draft: false
 ---
 
-I always wanted to try trail running, but I'm too lazy to trail running alone. After my friend invited me to trail running, I directly accept it.
+Trail running has alwas been on my bucket list, but the thought of venturing into the wild alone kept me from trying. That all changed when a friend invited me to join a trail run. Without hesitation, I said yes-- finally, my chance to experience the thrill of trail running had arrived!
 
 ## The Plan
 
 ![Alt text](/images/posts/2-starting-point.jpg "Starting Point")
 
-Our planning is go to Puncak Welirang with estimated 10 km from start position. I bring myself light running vest, 2 boiled eggs, 2 energy gel, and 3 soft flask with mineral water. I don't have any trail running shoes, so I use my cheap running shoes.
+Our destination was Puncak Welirang, approximately 10 kilometers from our starting point. I packed light, carrying a running vest filled with essentials: two boiled eggs, two energy gels, and three soft flasks of mineral water. Unfortunately, I didn't have trail running shoes, so I made do with my trusty (and cheap) road running shoes.
 
 ## The Run
 
 ![Alt text](/images/posts/2-with-yudho.jpg "Run with View")
 
-I thought this is not a trail run, just a ordinary hiking because we are not running at all! Me and my 3 friends have different background. My 2 friends is 3 times to go there, so it is not difficult for them. I myself never go there, but with my running experience I can keep up with my 2 friends. My 1 friend was very struggling because he hasn't prepared well especially for physical condition. So we frequently stopped.
-At a checkpoint, we agreed to go down again and not continue to the summit. Not only because my friend condition, but also the weather is likely to be rain.
+As we began, I quickly realized this wasn't going to be the trail run I had imagined--it felt more like a hike! The uneven terrain, steep climbs, and loose rocks slowed us down significantly.
+Our group of four had varying levels of experience. Two of my friends had already completed this trail multiple times, so they handled it with ease. With my running background, I managed to keep pace with them. However, one friend struggled from the start; his lack of preparation--especially in terms of physical conditioning--made the journey challenging for him.
+We took frequent breaks to accommodate our slower friend, which gave us time to enjoy the stunning views and catch our breath. But as we reached a checkpoint, dark clouds began gathering overhead. With the likelihood of rain and our friend's condition in mind, we decided to call it a day and head back down. The summit would have to wait for another time.
 
-## Conclusion
+## Lessons Learned
 
 ![Alt text](/images/posts/2-coros.jpg "Coros App")
 
-Trail running preparation is needed more than regular running. I need to have more food and drink preparation as well as physic preparation. We will back strong to conquer the summit!
+This experience taught me that trail running demands a whole new level of preparation compared to regular runs. Here are a few key takeaways for next time:
+
+1. **Proper Gear Matters** : Investing in trail running shoes is non-negotiable--they provide better grip and stability on rough terrain.
+2. **Nutrition and Hydration** : Two boiled eggs and two gels weren't enough. I'll pack more food and drinks for longer outings.
+3. **Physical Readiness** : Building endurance and strength specifically for trail running is crucial. Uneven terrain requires muscles and stamina that road running doesn't fully prepare you for.
+4. **Weather Awareness** : Alwas check the forecast and plan ccordingly.
+
+While we didn't conquer Puncak Welirang this time, the experience left me feeling motivated and eager to try again. Next time, we'll return stronger, better prepared, and ready to reach the summit!
